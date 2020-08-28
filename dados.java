@@ -12,9 +12,9 @@ public class Dados {
     public static ArrayList tirarDados(int numero, int rango) {
         ArrayList resultados=new ArrayList();
         for (int i=0; i<numero; i++) {
-            if()
+            if();
             resultados.add(tirarDado(rango));
-            else()
+            else();
         }
         return resultados;
     }
