@@ -17,5 +17,8 @@ public class Dados {
             else();
         }
         return resultados;
+        system.out.println (3+n)
+        system.out.println (3+n-2)
+        system.out.println (3-2)
     }
 }
