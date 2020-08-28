@@ -14,6 +14,7 @@ public class Dados {
         for (int i=0; i<numero; i++) {
             if
             resultados.add(tirarDado(rango));
+            else
         }
         return resultados;
     }
